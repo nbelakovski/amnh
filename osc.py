@@ -1,5 +1,7 @@
 #!/usr/bin/python
 
+#Notes: this was used to test sending messages to Konstantin for his sound project
+
 import OSC
 
 c = OSC.OSCClient()
